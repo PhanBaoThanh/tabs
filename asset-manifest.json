@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tabs/static/css/main.9a17189a.css",
+    "main.js": "/tabs/static/js/main.ebe8f3b0.js",
+    "static/media/hero-bcg.jpeg": "/tabs/static/media/hero-bcg.1486d4061cd0252b9a21.jpeg",
+    "index.html": "/tabs/index.html",
+    "main.9a17189a.css.map": "/tabs/static/css/main.9a17189a.css.map",
+    "main.ebe8f3b0.js.map": "/tabs/static/js/main.ebe8f3b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a17189a.css",
+    "static/js/main.ebe8f3b0.js"
+  ]
+}
